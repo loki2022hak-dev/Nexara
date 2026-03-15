@@ -1,0 +1,6 @@
+aiogram
+redis
+aiohttp
+aiopg
+psycopg2-binary
+sherlock-project
